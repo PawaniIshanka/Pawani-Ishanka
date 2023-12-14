@@ -1,5 +1,5 @@
 # Pawani-Ishanka
-
+![logo](https://github.com/PawaniIshanka/Pawani-Ishanka/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Pawani Ishanka</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
 
